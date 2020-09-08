@@ -13,3 +13,16 @@ F:\Estudos\Webhook\DeomoWebHook\DeomoWebHook\bin\Debug\netcoreapp3.1\Microsoft.D
 F:\Estudos\Webhook\DeomoWebHook\DeomoWebHook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
 F:\Estudos\Webhook\DeomoWebHook\DeomoWebHook\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
 F:\Estudos\Webhook\DeomoWebHook\DeomoWebHook\obj\Debug\netcoreapp3.1\DeomoWebHook.csproj.CopyComplete
+F:\Estudos\Webhook\DeomoWebHook\DeomoWebHook\bin\Debug\netcoreapp3.1\DeomoWebHook.deps.json
+F:\Estudos\Webhook\DeomoWebHook\DeomoWebHook\bin\Debug\netcoreapp3.1\DeomoWebHook.runtimeconfig.json
+F:\Estudos\Webhook\DeomoWebHook\DeomoWebHook\bin\Debug\netcoreapp3.1\DeomoWebHook.runtimeconfig.dev.json
+F:\Estudos\Webhook\DeomoWebHook\DeomoWebHook\bin\Debug\netcoreapp3.1\DeomoWebHook.dll
+F:\Estudos\Webhook\DeomoWebHook\DeomoWebHook\bin\Debug\netcoreapp3.1\DeomoWebHook.pdb
+F:\Estudos\Webhook\DeomoWebHook\DeomoWebHook\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+F:\Estudos\Webhook\DeomoWebHook\DeomoWebHook\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.WebHooks.Receivers.GitHub.dll
+F:\Estudos\Webhook\DeomoWebHook\DeomoWebHook\obj\Debug\netcoreapp3.1\DeomoWebHook.csproj.CoreCompileInputs.cache
+F:\Estudos\Webhook\DeomoWebHook\DeomoWebHook\obj\Debug\netcoreapp3.1\DeomoWebHook.MvcApplicationPartsAssemblyInfo.cs
+F:\Estudos\Webhook\DeomoWebHook\DeomoWebHook\obj\Debug\netcoreapp3.1\DeomoWebHook.MvcApplicationPartsAssemblyInfo.cache
+F:\Estudos\Webhook\DeomoWebHook\DeomoWebHook\obj\Debug\netcoreapp3.1\DeomoWebHook.dll
+F:\Estudos\Webhook\DeomoWebHook\DeomoWebHook\obj\Debug\netcoreapp3.1\DeomoWebHook.pdb
+F:\Estudos\Webhook\DeomoWebHook\DeomoWebHook\obj\Debug\netcoreapp3.1\DeomoWebHook.genruntimeconfig.cache

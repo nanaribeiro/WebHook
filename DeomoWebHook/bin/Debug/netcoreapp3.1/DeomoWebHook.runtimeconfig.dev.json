@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\alana.sasse\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\alana.sasse\\.nuget\\packages"
+    ]
+  }
+}

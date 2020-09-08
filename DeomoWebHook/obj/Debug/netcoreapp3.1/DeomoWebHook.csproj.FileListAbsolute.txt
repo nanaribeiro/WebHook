@@ -1,0 +1,15 @@
+F:\Estudos\Webhook\DeomoWebHook\DeomoWebHook\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\Estudos\Webhook\DeomoWebHook\DeomoWebHook\bin\Debug\netcoreapp3.1\appsettings.json
+F:\Estudos\Webhook\DeomoWebHook\DeomoWebHook\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+F:\Estudos\Webhook\DeomoWebHook\DeomoWebHook\bin\Debug\netcoreapp3.1\DeomoWebHook.exe
+F:\Estudos\Webhook\DeomoWebHook\DeomoWebHook\obj\Debug\netcoreapp3.1\DeomoWebHook.csprojAssemblyReference.cache
+F:\Estudos\Webhook\DeomoWebHook\DeomoWebHook\obj\Debug\netcoreapp3.1\DeomoWebHook.AssemblyInfoInputs.cache
+F:\Estudos\Webhook\DeomoWebHook\DeomoWebHook\obj\Debug\netcoreapp3.1\DeomoWebHook.AssemblyInfo.cs
+F:\Estudos\Webhook\DeomoWebHook\DeomoWebHook\obj\Debug\netcoreapp3.1\DeomoWebHook.RazorTargetAssemblyInfo.cache
+F:\Estudos\Webhook\DeomoWebHook\DeomoWebHook\obj\Debug\netcoreapp3.1\staticwebassets\DeomoWebHook.StaticWebAssets.Manifest.cache
+F:\Estudos\Webhook\DeomoWebHook\DeomoWebHook\obj\Debug\netcoreapp3.1\staticwebassets\DeomoWebHook.StaticWebAssets.xml
+F:\Estudos\Webhook\DeomoWebHook\DeomoWebHook\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.WebHooks.Receivers.dll
+F:\Estudos\Webhook\DeomoWebHook\DeomoWebHook\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+F:\Estudos\Webhook\DeomoWebHook\DeomoWebHook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+F:\Estudos\Webhook\DeomoWebHook\DeomoWebHook\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\Estudos\Webhook\DeomoWebHook\DeomoWebHook\obj\Debug\netcoreapp3.1\DeomoWebHook.csproj.CopyComplete

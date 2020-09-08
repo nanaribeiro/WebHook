@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeomoWebHook", "DeomoWebHook\DeomoWebHook.csproj", "{9CFF7456-8EFC-4707-A90C-8B887BA30894}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9CFF7456-8EFC-4707-A90C-8B887BA30894}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CFF7456-8EFC-4707-A90C-8B887BA30894}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CFF7456-8EFC-4707-A90C-8B887BA30894}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CFF7456-8EFC-4707-A90C-8B887BA30894}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2F0894AE-EB4D-46DB-8EC3-50C40C563F8D}
+	EndGlobalSection
+EndGlobal
